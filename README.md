@@ -14,3 +14,4 @@ visualizando
 comando git push
 
 comando push
+comando pull
