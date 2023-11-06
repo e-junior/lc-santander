@@ -12,3 +12,5 @@ usando comando restore
 visualizando
 
 comando git push
+
+comando push
